@@ -35,7 +35,7 @@ Run the main script and follow the prompts:
 
 SchedulAI will confirm and show you a link to the new calendar event.
 
-### 🔄 Workflow Overview
+### 🔄 Workflow Overview (Prompt Chaining)
 
 1. User Input → LLM pipeline extracts and validates event.
 2. Parsed Data → `google-api-python-client` creates a new event.
