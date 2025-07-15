@@ -4,9 +4,9 @@ SchedulAI parses your natural language event requests (e.g., "Lunch with Sarah t
 
 ### 🚀 Key Features
 - **LLM‑driven Extraction**:  
-  1. Event Detection: Determine whether your text describes a calendar item.  
-  2. **Detail Parsing**: Pull out event name, ISO‑8601 datetime, duration, and participants.  
-  3. **Confirmation**: Generate a friendly confirmation message.
+1. **Event Detection**: Determine whether your text describes a calendar item.  
+2. **Detail Parsing**: Pull out event name, ISO‑8601 datetime, duration, and participants.  
+3. **Confirmation**: Generate a friendly confirmation message.
 - **Google Calendar Integration**: OAuth2‑powered flow that writes directly to your primary calendar.  
 - **Timezone‑Aware**: Uses IANA timezones (default: Africa/Tunis) to avoid scheduling mishaps.
 - **Modular & Extensible**: Swap in other LLM models or downstream services with minimal changes.
