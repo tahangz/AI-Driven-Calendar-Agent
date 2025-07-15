@@ -14,8 +14,8 @@ SchedulAI parses your natural language event requests (e.g., "Lunch with Sarah t
 ### ⚙️ Installation
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your‑username/SchedulAI.git
-   cd SchedulAI
+   git clone https://github.com/tahangz/AI-Driven-Calendar-Agent.git
+   cd AI-Driven-Calendar-Agent
    ````
 2. **Install dependencies**
    ```bash
